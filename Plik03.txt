@@ -2,3 +2,4 @@ Zmiana01
 Zmiana07B
 Naprawa błędów - naprawa
 Zmiana10
+Zmiana12
